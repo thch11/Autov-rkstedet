@@ -1,0 +1,15 @@
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\bin\Debug\net10.0\Autoværkstedet.exe
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\bin\Debug\net10.0\Autoværkstedet.deps.json
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\bin\Debug\net10.0\Autoværkstedet.runtimeconfig.json
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\bin\Debug\net10.0\Autoværkstedet.dll
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\bin\Debug\net10.0\Autoværkstedet.pdb
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.AssemblyInfoInputs.cache
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.AssemblyInfo.cs
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.dll
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\refint\Autoværkstedet.dll
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.pdb
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autoværkstedet.genruntimeconfig.cache
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\ref\Autoværkstedet.dll
+C:\Users\thoma\source\repos\Autoværkstedet\Autoværkstedet\obj\Debug\net10.0\Autov_rk.15E17770.Up2Date
